@@ -1,2 +1,6 @@
-# bmstu_security
-BMSTU (2020), Защита информации
+# Protection-of-Information (2021)
+
+```
+4th course, IU7
+Bauman Moscow State Technical University
+```
